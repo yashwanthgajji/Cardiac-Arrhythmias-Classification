@@ -1,0 +1,26 @@
+TOTAL:
+->Premature atrial contractions: These are early extra beats that originate in the atria (upper chambers of the heart). They are harmless and do not require treatment.
+->Premature ventricular contractions(PVCs): These are among the most common arrhythmias and occur in people with and without heart disease. This is the skipped heartbeat we all occasionally experience. In some people, it can be related to stress, too much caffeine or nicotine, or too much exercise. But sometimes, PVCs can be caused by heart disease or electrolyte imbalance. People who have a lot of PVCs, and/or symptoms associated with them, should be evaluated by a heart doctor. However, in most people, PVCs are usually harmless and rarely need treatment.
+->Atrial fibrillation: Atrial fibrillation is a very common irregular heart rhythm that causes the atria, the upper chambers of the heart, to contract abnormally.
+->Atrial flutter: This is an arrhythmia caused by one or more rapid circuits in the atrium. Atrial flutter is usually more organized and regular than atrial fibrillation. This arrhythmia occurs most often in people with heart disease and in the first week after heart surgery. It often converts to atrial fibrillation.
+->Paroxysmal supraventricular tachycardia (PSVT): A rapid heart rate, usually with a regular rhythm, originating from above the ventricles. PSVT begins and ends suddenly. There are two main types: accessory path tachycardias and AV nodal reentrant tachycardias (see below).
+->Accessory pathway tachycardias: A rapid heart rate due to an extra abnormal pathway or connection between the atria and the ventricles. The impulses travel through the extra pathways as well as through the usual route. This allows the impulses to travel around the heart very quickly, causing the heart to beat unusually fast.
+->AV nodal reentrant tachycardia: A rapid heart rate due to more than one pathway through the AV node. It can cause heart palpitations, fainting, or heart failure. In many cases, it can be terminated using a simple maneuvers, such as breathing in and bearing down, and others performed by a trained medical professional. Some drugs can also stop this heart rhythm.
+->Ventricular tachycardia (V-tach): A rapid heart rhythm originating from the lower chambers (or ventricles) of the heart. The rapid rate prevents the heart from filling adequately with blood; therefore, less blood is able to pump through the body. This can be a serious arrhythmia, especially in people with heart disease, and may be associated with more symptoms. A heart doctor should evaluate this arrhythmia.
+->Ventricular fibrillation: An erratic, disorganized firing of impulses from the ventricles. The ventricles quiver and are unable to contract or pump blood to the body. This is a medical emergency that must be treated with cardiopulmonary resuscitation (CPR) and defibrillation as soon as possible.
+->Long QT syndrome: The QT interval is the area on the electrocardiogram that represents the time it takes for the heart muscle to contract and then recover, or for the electrical impulse to fire impulses and then recharge. When the QT interval is longer than normal, it increases the risk for "torsade de pointes," a life-threatening form of ventricular tachycardia. Long QT syndrome is an inherited condition that can cause sudden death in young people. It can be treated with antiarrhythmic drugs, pacemaker, electrical cardioversion, defibrillation, implanted cardioverter/defibrillator, or ablation therapy.
+->Bradyarrhythmias: These are slow heart rhythms, which may arise from disease in the heart's electrical conduction system. Examples include sinus node dysfunction and heart block.
+->Sinus node dysfunction: A slow heart rhythm due to an abnormal SA (sinus) node. Significant sinus node dysfunction that causes symptoms is treated with a pacemaker.
+->Heart block: A delay or complete block of the electrical impulse as it travels from the sinus node to the ventricles. The level of the block or delay may occur in the AV node or HIS-Purkinje system. The heart may beat irregularly and, often, more slowly. If serious, heart block is treated with a pacemaker.
+
+HARMFUL:
+AV nodal reentrant tachycardia
+Ventricular tachycardia (V-tach)
+Ventricular fibrillation
+Long QT syndrome
+Heart block
+
+HARMLESS:
+Premature atrial contractions
+Premature ventricular contractions(PVCs)
+Atrial fibrillation

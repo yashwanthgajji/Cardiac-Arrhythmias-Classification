@@ -1,0 +1,34 @@
+Heart arrhythmia, also known as irregular heartbeat or cardiac dysrhythmia, is a group of conditions where the heartbeat is irregular, too slow, or too fast.
+Arrhythmias are broken down into:
+->Slow heartbeat: bradycardia.
+->Fast heartbeat: tachycardia.
+->Irregular heartbeat: flutter or fibrillation.
+->Early heartbeat: premature contraction.
+Symptoms:-
+Many arrhythmias cause no symptoms at all, so you may not even know you have one until your doctor tells you.
+Having symptoms doesn't necessarily mean that you're in any danger from the arrhythmia either.
+Despite the fact that there are many different kinds, the noticeable symptoms caused by arrhythmias generally fall into four major categories, including:
+->Palpitations
+->Dizziness
+->Syncope (fainting)
+->Cardiac arrest
+Depending on the type and severity of your arrhythmia, you may notice symptoms such as sweating,
+feeling like your heart is racing or fluttering, noticing extra heartbeats, feeling your heartbeat has slowed, chest pain, or shortness of breath.
+
+Class code :   Class   :                       Number of instances:
+       01             Normal				          245
+       02             Ischemic changes (Coronary Artery Disease)   44
+       03             Old Anterior Myocardial Infarction           15
+       04             Old Inferior Myocardial Infarction           15
+       05             Sinus tachycardy			           13
+       06             Sinus bradycardy			           25
+       07             Ventricular Premature Contraction (PVC)       3
+       08             Supraventricular Premature Contraction	    2
+       09             Left bundle branch block 		            9	
+       10             Right bundle branch block		           50
+       11             1. degree AtrioVentricular block	            0	
+       12             2. degree AV block		            0
+       13             3. degree AV block		            0
+       14             Left ventricule hypertrophy 	            4
+       15             Atrial Fibrillation or Flutter	            5
+       16             Others				           22
